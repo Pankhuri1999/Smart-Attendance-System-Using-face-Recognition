@@ -1,6 +1,6 @@
 # Smart-Attendance-System-Using-face-Recognition
 
-This project was made for the Dexterity Global Group for their platform DexSchool
+This project has been made for the Dexterity Global Group for their platform DexSchool
 
 To start off with this project . follow the steps below  -
 1) Clone this repository
