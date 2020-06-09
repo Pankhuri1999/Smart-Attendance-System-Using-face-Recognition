@@ -17,7 +17,7 @@ window = tk.Tk()
 window.title("Smart Attendance System")
 
 #Displaying title on main window
-message = tk.Label(window, text="Smart Attendance System using Face Recognition", bg="cyan", fg="black", width=50,
+message = tk.Label(window, text="DexSchool Smart Attendance System using Face Recognition", bg="cyan", fg="black", width=50,
                    height=3, font=('times', 30, 'italic bold '))
 message.place(x=80, y=20)
 
